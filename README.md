@@ -30,5 +30,5 @@ jupyter notebook notebooks/student_performance.ipynb
 - The notebook trains a Linear Regression model and evaluates it with R² and RMSE.
 
 ---
-**Author:** Devansh Sharma
+**Author:** Devansh Sharma and Utkarsh Pandey
 **Prepared for:** GitHub upload / portfolio
