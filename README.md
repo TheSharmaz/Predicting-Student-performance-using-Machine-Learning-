@@ -1,7 +1,7 @@
 # Predicting Student Performance using Machine Learning
 
 **Overview**  
-This project predicts students' final grade (G3) using a Linear Regression model. The repository is set up for easy upload to GitHub and execution with Python 3.11.
+This project predicts students' final grade (G3) using a Linear Regression model. 
 
 ## Project Structure
 ```
@@ -31,4 +31,4 @@ jupyter notebook notebooks/student_performance.ipynb
 
 ---
 **Author:** Devansh Sharma and Utkarsh Pandey
-**Prepared for:** GitHub upload / portfolio
+**Prepared for:** GitHub upload
