@@ -26,9 +26,9 @@ jupyter notebook notebooks/student_performance.ipynb
 ```
 
 ## Notes
-- This repository includes a small sample dataset for demonstration (`data/student_data.csv`).
+- This repository includes a dataset for demonstration (`data/student_data.csv`).
 - The notebook trains a Linear Regression model and evaluates it with R² and RMSE.
 
 ---
-**Author:** Devansh Sharma and Utkarsh Pandey
-**Prepared for:** GitHub upload
+**Author:** Devansh Sharma,Utkarsh Pandey and Amritya varun 
+**Prepared for:** Itt IBM 
